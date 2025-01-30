@@ -17,14 +17,13 @@ With 10+ years of experience in IT product management, I’m passionate about so
 
 ## 📂 Featured Projects  
 
-### 📊 **Customer Churn Prediction**  
-- **Description:** Developed a machine learning model to predict customer churn based on historical behavior and demographic data.  
+### 📊 **Visa Approval Prediction**  
+- **Description:** Developed a machine learning model that predicts visa approval status.  
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
-- **Key Outcome:** Achieved 85% accuracy using Random Forests and improved retention rates by targeting at-risk customers.  
-- [View Project](https://github.com/Kemmy-dotcom/Customer-Churn-Prediction)  
+- **Key Outcome:** Achieved 88% accuracy using Random Forests and improved retention rates by targeting at-risk customers.  
+- [View Project](https://github.com/Kemmy-dotcom/Visa-Approval-Prediction)  
 
 ---
-
 ### 📈 **Sales Forecasting Dashboard**  
 - **Description:** Built an interactive Tableau dashboard to forecast monthly sales trends and identify seasonal patterns.  
 - **Tech Stack:** Tableau, SQL  
