@@ -2,7 +2,7 @@
 ## 👋 Hi there, I'm Kemmy  
 
 🌟 **Technical Project/Program Manager turned Data Scientist/AL Engineer**  
-With 10+ years of experience in IT product management, I’m passionate about solving complex business problems using data. My goal is to leverage data science and machine learning to unlock insights, build predictive models, and drive informed decision-making.
+With 10+ years of experience in IT project management, I’m passionate about solving complex business problems using data. My goal is to leverage data science and machine learning to unlock insights, build predictive models, and drive informed decision-making.
 
 ---
 
