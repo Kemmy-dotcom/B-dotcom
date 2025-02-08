@@ -20,14 +20,14 @@ With 2 years of Data Science experience and 10+ years of IT project management e
 ### 📊 **Visa Approval Prediction**  
 - **Description:** Developed a machine learning model that predicts visa approval status.  
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
-- **Key Outcome:** Built and tuned model that achieved 87% recall using AdaBoost with F1 score of 0.83. Important features of top model were identified and analysed to improve approval retention rates of visa application.  
+- **Key Outcome:** Built and tuned AdaBoost model that achieved 87% recall using AdaBoost with F1 score of 0.83. Important features of top model were identified and analysed to improve approval retention rates of visa application.  
 - [View Project](https://github.com/Kemmy-dotcom/Visa-Approval-Prediction)  
 
 ---
-### 📈 **Sales Forecasting Dashboard**  
-- **Description:** Built an interactive Tableau dashboard to forecast monthly sales trends and identify seasonal patterns.  
-- **Tech Stack:** Tableau, SQL  
-- **Key Outcome:** Enabled proactive inventory management, reducing stockouts by 20%.  
+### 📈 **Hotel Booking Optimization**  
+- **Description:** Built a predictive model to forecast cancelled booking in advance, mitigate against avoidable cancellation and help to formulate profitable policies for cancellations, room resells and refunds.  
+- **Tech Stack:** Python, Pandas, Numpy, Scikit-learn, Matplotlib  
+- **Key Outcome:** Built and deployed a Decision Tree model to accurately predict hotel booking cancellations, achieving a high 33% accuracy improvement rate. Identified key variables influencing cancellations that included lead time, market segment (online), number of special requests, and average price per room 
 - [View Project](https://github.com/Kemmy-dotcom/Sales-Forecasting-Dashboard)  
 
 ---
