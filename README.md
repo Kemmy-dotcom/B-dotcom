@@ -19,7 +19,7 @@ With 2 years of Data Science experience and 10+ years of IT project management e
 
 ### 📊 **Visa Approval Prediction**  
 - **Description:** Developed a machine learning model that predicts visa approval status.  
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+- **Tech Stack:** Python, Pandas, numpy, Sklearn, Seaborn, Statsmodel, Matplotlib  
 - **Key Outcome:** Built and tuned AdaBoost model that achieved 87% recall using AdaBoost with F1 score of 0.83. Important features of top model were identified and analysed to improve approval retention rates of visa application.  
 - [View Project](https://github.com/Kemmy-dotcom/Visa-Approval-Prediction)  
 
