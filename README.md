@@ -24,10 +24,10 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 - [View Project](https://github.com/Kemmy-dotcom/KemmyO_Visa-Approval-Prediction.git)  
 
 ---
-### 📈 **Hotel Booking Optimization**  
-- **Description:** Built a predictive model to forecast cancelled booking in advance, mitigate against avoidable cancellation and help to formulate profitable policies for cancellations, room resells and refunds.  
+### 📈 **Booking Prediction & Optimization**  
+- **Description:** Built a predictive model to forecast cancelled booking in advance, mitigate against avoidable cancellation and help to formulate effective and efficient policies around cancellations and reuse.  
 - **Tech Stack:** Python, Pandas, Numpy, Scikit-learn, Matplotlib  
-- **Key Outcome:** Built and deployed a Decision Tree model to accurately predict hotel booking cancellations, achieving a high 33% accuracy improvement rate. Identified key variables influencing cancellations that included lead time, market segment (online), number of special requests, and average price per room 
+- **Key Outcome:** Built and deployed a Decision Tree model to accurately predict booking cancellations, achieving a high 33% accuracy improvement rate. Identified key variables influencing cancellations that included lead time, market segment (online), number of special requests, and average price per room 
 - [View Project](https://github.com/Kemmy-dotcom/KemmyO_HotelBookingOptimization.git)  
 
 ---
