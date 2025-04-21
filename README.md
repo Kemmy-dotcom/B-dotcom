@@ -48,7 +48,7 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 ---
 
 ## 🌟 About Me  
-- 💡 **Passionate about:** Machine learning, storytelling with data, and problem-solving.  
+- 💡 **Passionate about:** Machine learning, storytelling with data & analytics, including problem-solving.  
 - 📚 **Currently learning:** Deep Learning with TensorFlow.  
 - 🌱 **Career goal:** Evolve in my career as top-rated data scientist and contribute to impactful data-driven projects.  
 
