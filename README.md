@@ -9,7 +9,7 @@ With 2 years of Data Science experience and 10+ years of IT project management e
 ## 🔧 Skills & Tools  
 **Programming:** Python, R, SQL  
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Amazon Sagemaker, Amazon Bedrock  
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Amazon Sagemaker, Amazon Bedrock, Azure ML, Vertex AI  
 **Data Visualization:** Tableau, Power BI, Matplotlib  
 **Other Tools:** Git, Jupyter Notebooks, Excel, Project Management Software  
 
