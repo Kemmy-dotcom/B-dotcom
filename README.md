@@ -42,7 +42,6 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 
 ## 🏆 Certifications  
 - Microsoft AI Associate Engineer Certification  
-- IBM Data Science Professional Certificate  
 - PMI Project Management Professional
 - IIBA Certified Business Analysis Professional 
 
