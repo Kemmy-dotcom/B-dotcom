@@ -55,7 +55,6 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 ---
 
 ## 📫 Let's Connect!  
-- **GitHub:** [Kemmy-dotcom(https://github.com/Kemmy-dotcom)  
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/bose-o)   
 
 ---
