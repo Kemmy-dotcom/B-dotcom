@@ -32,7 +32,7 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 
 ---
 
-### 🤖 **Sentiment Analysis of Product Reviews**  
+### 🤖 **Sentiment Analysis of Product Reviews **  
 - **Description:** Analyzed product review sentiment using NLP techniques to identify trends in customer feedback.  
 - **Tech Stack:** Python, NLTK, Matplotlib  
 - **Key Outcome:** Provided actionable insights for product improvements based on customer sentiment.  
@@ -57,8 +57,7 @@ With 4 years of Data Science experience and 10+ years of IT project management e
 
 ## 📫 Let's Connect!  
 - **GitHub:** [Kemmy-dotcom(https://github.com/Kemmy-dotcom)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedIn)  
-- **Portfolio Website:** [YourWebsite](https://yourwebsite.com)  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/bose-o)   
 
 ---
 
